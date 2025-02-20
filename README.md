@@ -1,10 +1,10 @@
 # 👋 Wororo!
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrocarrillo950623/)
 
 ## 😎 About me
 Hi there! I'm Alex, and I'm passionate about continuous learning and driven to explore new possibilities. My interests include **Backend Development**, **Software Architecture**, **Cloud Computing**, and **Artificial Intelligence**.
 
 📫 You're welcome to check out my projects, collaborate on them, or reach out to me!  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandrocarrillo950623/)
 
 ## 🤓 What can you discover here?
 I've put together some side projects and experimental prototypes focused on learning, experimenting, and having fun.
